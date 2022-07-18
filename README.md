@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enzo-sf
+- 👋 Hi, I’m @enzo-sf (@enzoftware)
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning iOS :apple:
 - 💞️ I’m looking to collaborate on everything
